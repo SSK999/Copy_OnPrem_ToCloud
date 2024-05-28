@@ -1,1 +1,0 @@
-Transfer data from OnPrem Database to Azure SQLdb
